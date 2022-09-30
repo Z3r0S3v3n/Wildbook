@@ -636,7 +636,7 @@
 <dependency>
   <groupId>com.google.cloud</groupId>
   <artifactId>google-cloud-vision</artifactId>
-  <version>1.15.0</version>
+  <version>1.103.7</version>
 </dependency>
     
      <dependency>
@@ -966,7 +966,7 @@
   	<url>http://localhost:8080/manager/text</url>  
   	<server>TomcatServer</server>    
   	<username>admin</username>  
-  	<password></password>   
+  	<password/>   
  	</configuration>
 	</plugin>
 
