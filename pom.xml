@@ -175,7 +175,7 @@
     <dependency>
         <groupId>org.pac4j</groupId>
         <artifactId>pac4j-oauth</artifactId>
-        <version>1.9.7</version>
+        <version>5.4.1</version>
     </dependency>
 	
 	<dependency>
@@ -193,7 +193,7 @@
 <dependency>
 	<groupId>com.amazonaws</groupId>
 	<artifactId>aws-java-sdk</artifactId>
-	<version>1.10.34</version>
+	<version>1.12.314</version>
 </dependency>
 
 <!--
@@ -966,7 +966,7 @@
   	<url>http://localhost:8080/manager/text</url>  
   	<server>TomcatServer</server>    
   	<username>admin</username>  
-  	<password></password>   
+  	<password/>   
  	</configuration>
 	</plugin>
 
