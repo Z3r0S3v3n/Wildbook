@@ -175,7 +175,7 @@
     <dependency>
         <groupId>org.pac4j</groupId>
         <artifactId>pac4j-oauth</artifactId>
-        <version>1.9.7</version>
+        <version>5.4.1</version>
     </dependency>
 	
 	<dependency>
@@ -966,7 +966,7 @@
   	<url>http://localhost:8080/manager/text</url>  
   	<server>TomcatServer</server>    
   	<username>admin</username>  
-  	<password></password>   
+  	<password/>   
  	</configuration>
 	</plugin>
 
