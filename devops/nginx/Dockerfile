@@ -1,4 +1,4 @@
-FROM nginx:1.15.0 as org.wildme.nginx.deploy
+FROM nginx:1.23.2 as org.wildme.nginx.deploy
 
 MAINTAINER Wild Me <dev@wildme.org>
 
