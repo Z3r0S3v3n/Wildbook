@@ -193,7 +193,7 @@
 <dependency>
 	<groupId>com.amazonaws</groupId>
 	<artifactId>aws-java-sdk</artifactId>
-	<version>1.10.34</version>
+	<version>1.12.409</version>
 </dependency>
 
 <!--
@@ -966,7 +966,7 @@
   	<url>http://localhost:8080/manager/text</url>  
   	<server>TomcatServer</server>    
   	<username>admin</username>  
-  	<password></password>   
+  	<password/>   
  	</configuration>
 	</plugin>
 
